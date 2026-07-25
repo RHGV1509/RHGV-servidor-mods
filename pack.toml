@@ -1,0 +1,13 @@
+name = "GerardoServerMods"
+author = "DDD"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9214779dbd4bc4f043a75c123e26947226313c325b3933c2de221bc2e5e75f49"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
