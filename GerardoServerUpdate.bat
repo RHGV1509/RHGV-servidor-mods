@@ -1,24 +1,18 @@
 @echo off
-title Sincronizar Mods - Servidor Gerardo
+title Sincronizador de Servidor
 color 0A
 
-set PACK_URL=[host repo github]
+if exist "packwiz-installer-bootstrap.jar" del "packwiz-installer-bootstrap.jar"
+if exist "packwiz-installer.jar" del "packwiz-installer.jar"
 
-echo ========================================================
-echo         Sincronizando Mods del Servidor
-echo ========================================================
-echo.
+:: PEGA TU NUEVO ENLACE RAW DE GITHUB AQUÍ ABAJO:
+set PACK_URL=https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/pack.toml
 
-if not exist "packwiz-installer-bootstrap.jar" (
-    echo [INFO] Es tu primera vez. Descargando el motor de actualizacion...
-    curl -s -L -o packwiz-installer-bootstrap.jar "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
-)
+echo Descargando actualizaciones del servidor...
+curl -s -L -o packwiz-installer-bootstrap.jar "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 
-echo [INFO] Conectando con GitHub y descargando mods...
 java -jar packwiz-installer-bootstrap.jar %PACK_URL%
 
 echo.
-echo ========================================================
-echo    ¡Actualizacion completa! Ya puedes entrar al server.
-echo ========================================================
+echo ¡Listo! Ya puedes abrir tu Minecraft.
 pause

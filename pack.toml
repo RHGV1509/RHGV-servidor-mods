@@ -1,12 +1,12 @@
-name = "GerardoServerMods"
-author = "DDD"
+name = "RHGV Servidor Mods"
+author = "Ramiro Haro"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "52070f0deeb2a1511219b149bc6fd96925b65769962646066bce53f0a1e3aa8a"
+hash = "8279b174d14ef57ac850ff52112a64a7c72bcd87bd1c7200c5a54f7fef9c87ff"
 
 [versions]
 minecraft = "1.21.1"
