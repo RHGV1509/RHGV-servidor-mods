@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "GerardoServerUpdate.bat"
+hash = "7a51dcbf44ae9a2b271989e0e7a96edf291b79ea0132a23782328b08e969cf20"
+
+[[files]]
+file = "importar.js"
+hash = "99fbe3674cd37d3524202eb48ae1b2acd9dc35cb89ff9562c6d504ea1c6dac07"
+
+[[files]]
+file = "modrinth.index.json"
+hash = "4fe4418330560d70af98d4a3884195e86390626971f9d5b893c5669297faf528"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
