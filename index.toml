@@ -201,6 +201,10 @@ file = "mods/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar"
 hash = "a5bb002229e30a44237282371cff48baf6e889bc69b5753e70323e1d41c0616d"
 
 [[files]]
+file = "mods/WebDisplays-REMASTER-2.1.0.jar"
+hash = "2c61926eb8049a098679c5d3710714d49e831152d8b017b822e99eb00849c85e"
+
+[[files]]
 file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
 hash = "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
 
@@ -1023,10 +1027,6 @@ hash = "1e387494cec156553557d0996cee6dbf6ca606e371782f723ff08d3e9905fe3c"
 [[files]]
 file = "mods/watut-neoforge-1.21.0-1.2.7.jar"
 hash = "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
-
-[[files]]
-file = "mods/webdisplays-2.6.0-1.21.1.jar"
-hash = "dcd57a96b36201282d5c4f3ab83e5271d68f4ca9fddbf39e712996b636f3ed34"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar"
