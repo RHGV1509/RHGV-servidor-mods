@@ -833,6 +833,10 @@ file = "mods/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar"
 hash = "ec941215d8b14ccf2927e5c80304511d6340d6025fec7212fcdb3fb2ef00a61c"
 
 [[files]]
+file = "mods/obbcrashfix-1.0.0.jar"
+hash = "ccb00eb42dedb332bec06642cd6677fdb10fd90adc9a122aec7ca2996f0d2310"
+
+[[files]]
 file = "mods/opacpvp-neoforge-1.0.0-1.21.1.jar"
 hash = "84bf1bf6a5378ca949f97a1f48858b7eef0b9953e307f4e8582be86a4faecb23"
 
