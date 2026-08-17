@@ -5,10 +5,6 @@ file = "GerardoServerUpdate.bat"
 hash = "9afde0e0cd3f40fecf88eec14b053715a97833400161b6a137cc60a67a1302fb"
 
 [[files]]
-file = "README.md"
-hash = "eb5cb7c7ccdd0f57ad62fea70293d111e15d62332309d50b9949ced29cfcc5a6"
-
-[[files]]
 file = "mods/Aoc_Core_1.21.jar"
 hash = "ba10f536e4c9d363c3a7f851b3e330583039cf1aac30b007da66b1c5a97c1b1d"
 
