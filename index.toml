@@ -849,10 +849,6 @@ file = "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
 hash = "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
 
 [[files]]
-file = "mods/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "mods/personality-1.21.1-5.0.2.jar"
 hash = "9c0fd81a32f60b8af933816d06f2cf58d53ce6433221b820ab0b90df686df248"
 
